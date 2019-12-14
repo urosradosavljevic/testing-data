@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 2,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 3,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 4,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 5,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 6,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 7,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 8,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+    {
+        "id": 9,
+        "title": "White Basketball Shoes",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+        "features" : [ "Ruber bottom" , "Terrex" ] ,
+        "sizes" : [41, 41.5, 42.5, 43, 43.5],
+        "colors" : ["Blue", "Green", "Yellow"]    
+    },
+
+]
