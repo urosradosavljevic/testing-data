@@ -6,7 +6,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "img" : "/img/shoe.jpg"
+        "media" : "/img/shoe.jpg"
     }
 
 ]
