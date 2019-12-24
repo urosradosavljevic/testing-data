@@ -1,0 +1,10 @@
+{
+    "id": 9,
+    "title": "Black Running Shoes", 
+    "price" : 80,
+    "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
+    "features" : [ "Ruber bottom" , "Air Flow" ] ,
+    "sizes" : [41.5, 42.5, 43, 43.5],
+    "colors" : ["Black", "Yellow"] ,
+    "media" : "/img/shoe9.jpg"
+}
