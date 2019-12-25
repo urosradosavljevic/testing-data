@@ -7,7 +7,7 @@
         "features" : [ "Ruber bottom" , "Velcro" ] ,
         "sizes" : [43, 43.5, 44.5, 45, 45.5],
         "colors" : ["White", "Green"] ,
-        "media" : "/img/shoe1.jpg"
+        "media" : ["/img/shoe1_1.jpg","/img/shoe1_2.jpg","/img/shoe1_3.jpg","/img/shoe1_4.jpg","/img/shoe1_5.jpg"]
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Blue", "Green"] ,
-        "media" : "/img/shoe2.jpg"
+        "media" : ["/img/shoe2_1.jpg","/img/shoe2_2.jpg","/img/shoe2_3.jpg","/img/shoe2_4.jpg","/img/shoe2_5.jpg"]
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Black", "Gray"] ,
-        "media" : "/img/shoe3.jpg"
+        "media" : ["/img/shoe3_1.jpg","/img/shoe3_2.jpg","/img/shoe3_3.jpg","/img/shoe3_4.jpg","/img/shoe3_5.jpg"]
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "features" : [ "Ruber bottom" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Green", "Yellow"] ,
-        "media" : "/img/shoe4.jpg"
+        "media" : ["/img/shoe4_1.jpg","/img/shoe4_2.jpg","/img/shoe4_3.jpg","/img/shoe4_4.jpg","/img/shoe4_5.jpg"]
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Dark Gray"] ,
-        "media" : "/img/shoe5.jpg"
+        "media" : ["/img/shoe5_1.jpg","/img/shoe5_2.jpg","/img/shoe5_3.jpg","/img/shoe5_4.jpg","/img/shoe5_5.jpg"]
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "features" : [ "Ruber bottom" , "Terrex" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["White", "Green"] ,
-        "media" : "/img/shoe6.jpg"
+        "media" : ["/img/shoe6_1.jpg","/img/shoe6_2.jpg","/img/shoe6_3.jpg","/img/shoe6_4.jpg","/img/shoe6_5.jpg"]
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "features" : [ "Ruber bottom"  ] ,
         "sizes" : [21, 21.5, 22.5, 23, 23.5],
         "colors" : ["Blue", "Green", "Yellow"] ,
-        "media" : "/img/shoe7.jpg"
+        "media" : ["/img/shoe7_1.jpg","/img/shoe7_2.jpg","/img/shoe7_3.jpg","/img/shoe7_4.jpg","/img/shoe7_5.jpg"]
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "features" : [ "Ruber bottom" , "Inside" ] ,
         "sizes" : [41, 41.5, 42.5, 43, 43.5],
         "colors" : ["Black", "Red"] ,
-        "media" : "/img/shoe8.jpg"
+        "media" : ["/img/shoe8_1.jpg","/img/shoe8_2.jpg","/img/shoe8_3.jpg","/img/shoe8_4.jpg","/img/shoe8_5.jpg"]
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "features" : [ "Ruber bottom" , "Air Flow" ] ,
         "sizes" : [41.5, 42.5, 43, 43.5],
         "colors" : ["Black", "Yellow"] ,
-        "media" : "/img/shoe9.jpg"
+        "media" : ["/img/shoe9_1.jpg"]
     }
 
 ]

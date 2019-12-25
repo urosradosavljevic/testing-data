@@ -6,5 +6,5 @@
     "features" : [ "Ruber bottom" , "Inside" ] ,
     "sizes" : [41, 41.5, 42.5, 43, 43.5],
     "colors" : ["Black", "Red"] ,
-    "media" : "/img/shoe8.jpg"
+    "media" : ["/img/shoe8_1.jpg","/img/shoe8_2.jpg","/img/shoe8_3.jpg","/img/shoe8_4.jpg","/img/shoe8_5.jpg"]
 }
