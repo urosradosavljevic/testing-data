@@ -2,6 +2,8 @@
     "id": 7,
     "title": "Kid Jordan", 
     "price" : 60,
+    "style" : "Basketball",
+    "gender" : "Kids",
     "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
     "features" : [ "Ruber bottom"  ] ,
     "sizes" : [21, 21.5, 22.5, 23, 23.5],

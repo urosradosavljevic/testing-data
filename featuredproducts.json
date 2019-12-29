@@ -1,8 +1,10 @@
 [
     {
         "id": 1,
-        "title": "White Basketball Shoes", 
+        "title": "High Top Shoes", 
         "price" : 120,
+        "style" : "Basketball",
+        "gender" : "Men",
         "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
         "features" : [ "Ruber bottom" , "Velcro" ] ,
         "sizes" : [43, 43.5, 44.5, 45, 45.5],
@@ -13,6 +15,8 @@
         "id": 7,
         "title": "Kid Jordan", 
         "price" : 60,
+        "style" : "Basketball",
+        "gender" : "Kids",
         "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
         "features" : [ "Ruber bottom"  ] ,
         "sizes" : [21, 21.5, 22.5, 23, 23.5],
@@ -21,8 +25,10 @@
     },
     {
         "id": 9,
-        "title": "Black Running Shoes", 
+        "title": "Comfy Running Shoes", 
         "price" : 80,
+        "style" : "Running",
+        "gender" : "Men",
         "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis eos laudantium a minima, accusantium, pariatur aperiam quis explicabo ea harum, rerum excepturi iusto reiciendis illo.",
         "features" : [ "Ruber bottom" , "Air Flow" ] ,
         "sizes" : [41.5, 42.5, 43, 43.5],
