@@ -8,5 +8,5 @@
     "features" : [ "Ruber bottom" , "Velcro" ] ,
     "sizes" : [43, 43.5, 44.5, 45, 45.5],
     "colors" : ["White", "Gray"] ,
-    "media" : ["/img/shoe1_1.jpg","/img/shoe1_2.jpg","/img/shoe1_3.jpg","/img/shoe1_4.jpg","/img/shoe1_5.jpg"]
+    "media" : ["./img/shoe1_1.jpg","./img/shoe1_2.jpg","./img/shoe1_3.jpg","./img/shoe1_4.jpg","./img/shoe1_5.jpg"]
 }

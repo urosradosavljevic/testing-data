@@ -8,5 +8,5 @@
     "features" : [ "Ruber bottom" , "Terrex" ] ,
     "sizes" : [41, 41.5, 42.5, 43, 43.5],
     "colors" : ["Brown"] ,
-    "media" : ["/img/shoe5_1.jpg","/img/shoe5_2.jpg","/img/shoe5_3.jpg","/img/shoe5_4.jpg","/img/shoe5_5.jpg"]
+    "media" : ["./img/shoe5_1.jpg","./img/shoe5_2.jpg","./img/shoe5_3.jpg","./img/shoe5_4.jpg","./img/shoe5_5.jpg"]
 }

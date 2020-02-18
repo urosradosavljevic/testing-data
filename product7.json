@@ -8,5 +8,5 @@
     "features" : [ "Ruber bottom"  ] ,
     "sizes" : [21, 21.5, 22.5, 23, 23.5],
     "colors" : ["Black", "Green", "Navy"] ,
-    "media" : ["/img/shoe7_1.jpg","/img/shoe7_2.jpg","/img/shoe7_3.jpg","/img/shoe7_4.jpg","/img/shoe7_5.jpg"]
+    "media" : ["./img/shoe7_1.jpg","./img/shoe7_2.jpg","./img/shoe7_3.jpg","./img/shoe7_4.jpg","./img/shoe7_5.jpg"]
 }
