@@ -3,7 +3,7 @@
         "id":"1",
         "title": "Sunto 1",
         "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
-        "img": "../assets/sunto.jpg",
+        "img": "./sunto.jpg",
         "price": "130",
         "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
     },
