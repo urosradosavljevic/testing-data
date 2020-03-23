@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "title": "Sunto 1",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "../assets/sunto.jpg",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    },
+    {
+        "id":"2",
+        "title": "Sunto 2",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "https://s3.eu-central-1.amazonaws.com/cnj-img/images/46/46XKe7W7Q5",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    },
+    {
+        "id":"3",
+        "title": "Sunto 3",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "https://s3.eu-central-1.amazonaws.com/cnj-img/images/46/46XKe7W7Q5",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    },
+    {
+        "id":"4",
+        "title": "Sunto 4",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "https://s3.eu-central-1.amazonaws.com/cnj-img/images/46/46XKe7W7Q5",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    },
+    {
+        "id":"5",
+        "title": "Sunto 5",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "https://s3.eu-central-1.amazonaws.com/cnj-img/images/46/46XKe7W7Q5",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    },
+    {
+        "id":"6",
+        "title": "Sunto 6",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "https://s3.eu-central-1.amazonaws.com/cnj-img/images/46/46XKe7W7Q5",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    },
+    {
+        "id":"7",
+        "title": "Sunto 7",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nulla, tempus sit amet hendrerit at, interdum quis turpis.",
+        "img": "https://s3.eu-central-1.amazonaws.com/cnj-img/images/46/46XKe7W7Q5",
+        "price": "130",
+        "owner": {"name":"Zoran","phone_number":"060/000-000","adress": {"street":"Ulica bez broja 23","city":"Valjevo"}}
+    }
+]
